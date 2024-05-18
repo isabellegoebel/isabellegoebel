@@ -17,11 +17,11 @@ Data 140 - Probability (TBD)
 E7 - Intro to Programming (A)  
 IEOR 142A - Intro to Machine Learning  (TBD)
 
-classes i want to take but can't:
-CE 88 - Data Science for Smart Cities
-CE 193 - Engineering Risk Analysis
-CS 61A & CS 61B
-Data 101 - Data Engineering
-Data 102 - Data, Inference, and Decisions
+classes i want to take but can't:  
+CE 88 - Data Science for Smart Cities  
+CE 193 - Engineering Risk Analysis  
+CS 61A & CS 61B  
+Data 101 - Data Engineering  
+Data 102 - Data, Inference, and Decisions  
 
 
