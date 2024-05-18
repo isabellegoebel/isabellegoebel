@@ -1,6 +1,11 @@
-### hey! here are some of the projects i've been working on (most are private) 
+### hey! here are some of the projects i've been working on (all are private) 
 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Znd24xMndmNHlscHoyNWJqNjE5Z3pubmwyd3poY3ZudTl5cjJ4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxETRYAi2KReel7pqy/giphy.gif)
+
+<ins> AQMEL </ins>  
+<ins> Balance Hydrologics </ins>  
+<ins> MWD </ins>   
+<ins> Classes </ins>  
 
 classes taking/taken:  
 CE 93 - Data Analysis (A)  
