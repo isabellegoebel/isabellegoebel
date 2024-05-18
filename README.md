@@ -2,7 +2,7 @@
 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Znd24xMndmNHlscHoyNWJqNjE5Z3pubmwyd3poY3ZudTl5cjJ4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxETRYAi2KReel7pqy/giphy.gif)
 
-classes taking/taken:  
+classes taking/taken:
 CE 93 - Data Analysis (A)  
 CE 100 - Fluid Mechanics (A)  
 CE 110 - Water Systems (A)  
@@ -16,3 +16,12 @@ Data 104 - Data Ethics (A)
 Data 140 - Probability (TBD)  
 E7 - Intro to Programming (A)  
 IEOR 142A - Intro to Machine Learning  (TBD)
+
+classes i want to take but can't:
+CE 88 - Data Science for Smart Cities
+CE 193 - Engineering Risk Analysis
+CS 61A & CS 61B
+Data 101 - Data Engineering
+Data 102 - Data, Inference, and Decisions
+
+
