@@ -5,7 +5,7 @@
 [MWD](https://github.com/isabellegoebel/mwd)  
 [Balance Hydrologics](https://github.com/isabellegoebel/bh)  
 [AQMEL](https://github.com/isabellegoebel/aqmel)  
-Classes  
+[Classes](https://github.com/isabellegoebel/classes)   
 
 classes taking/taken:  
 CE 93 - Data Analysis (A)  
