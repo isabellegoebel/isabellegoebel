@@ -3,7 +3,7 @@
 [AQMEL](https://github.com/isabellegoebel/aqmel)  
 [Classes](https://github.com/isabellegoebel/classes)   
 
-classes taking/taken:  
+Classes taking/taken:  
 CE 93 - Data Analysis (A)  
 CE 100 - Fluid Mechanics (A)  
 CE 110 - Water Systems (A)  
@@ -18,7 +18,7 @@ Data 140 - Probability (TBD)
 E7 - Intro to Programming (A)  
 IEOR 142A - Intro to Machine Learning  (TBD)
 
-classes i want to take but can't:  
+Classes I want to take but can't:  
 CE 88 - Data Science for Smart Cities  
 CE 193 - Engineering Risk Analysis  
 CS 61A & CS 61B  
