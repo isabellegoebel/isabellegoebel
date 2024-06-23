@@ -1,3 +1,5 @@
+Hey! Here is where I keep the projects I've worked on (all are private)
+
 [MWD](https://github.com/isabellegoebel/mwd)  
 [Balance Hydrologics](https://github.com/isabellegoebel/bh)  
 [AQMEL](https://github.com/isabellegoebel/aqmel)  
