@@ -11,19 +11,19 @@ CE 100 - Fluid Mechanics (A)
 CE 105 - Design for Global Transformation (TBD)  
 CE 110 - Water Systems (A)  
 CE 111 - Environmental Engineering (A)  
-CE 155 - Transportation Engineering (TBD)  
+CE 155 - Transportation Engineering (A+)  
 CE 175 - Geotechnical Engineering (TBD)  
 CE 190 - Environmental Engineering Justice (A)  
-CE 191 - Systems Analysis (A)   
-CE 293 - Uncertainty Quantification (TBD)   
+CE 191 - Systems Analysis (A)     
 Data 100 - Data Science (A)  
 Data 104 - Data Ethics (A)  
-Data 140 - Probability (TBD)  
+Data 140 - Probability (A)  
 E7 - Intro to Programming (A)  
 Stat 154 - Statistical Prediction and Machine Learning (TBD)   
 
 Classes I want to take but can't:   
 CE 103 - Hydrology     
+CE 193 - Engineering Risk Analysis   
 CS 61A & CS 61B  
 Data 101 - Data Engineering  
 Data 102 - Data, Inference, and Decisions  
