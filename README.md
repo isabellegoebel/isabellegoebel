@@ -24,8 +24,8 @@ Stat 154 - Statistical Prediction and Machine Learning (TBD)
 Classes I want to take but can't:   
 CE 103 - Hydrology     
 CE 193 - Engineering Risk Analysis   
-CS 61A & *CS 61B (#1)   
-*Data 101 - Data Engineering (#2)   
-*Data 144 - Data Mining and Analytics (#3)  
+CS 61A & *CS 61B    
+*Data 101 - Data Engineering    
+*Data 144 - Data Mining and Analytics   
 *These 3 classes away from a double major in Data Science  
 
