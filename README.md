@@ -17,7 +17,7 @@ CE 190 - Environmental Engineering Justice (A)
 CE 191 - Systems Analysis (A)     
 [Data 100 - Data Science (A)](https://github.com/isabellegoebel/data100)     
 Data 104 - Data Ethics (A)  
-Data 140 - Probability (A)  
+[Data 140 - Probability (A)](https://github.com/isabellegoebel/data140)     
 E7 - Intro to Programming (A)  
 Stat 154 - Statistical Prediction and Machine Learning (TBD)   
 
