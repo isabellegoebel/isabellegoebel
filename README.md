@@ -21,6 +21,7 @@ Data 104 - Data Ethics (A)
 [Data 140](https://github.com/isabellegoebel/data140) - Probability (A)   
 E7 - Intro to Programming (A)  
 [Stat 154](https://github.com/isabellegoebel/stat154) - Statistical Prediction and Machine Learning (TBD)   
+[Math 54](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/) - Linear Algebra (A)   
 
 Classes I want to take but can't:   
 CE 103 - Hydrology     
