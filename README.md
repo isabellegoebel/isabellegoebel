@@ -1,6 +1,5 @@
 Hey! Here is where I keep the projects I've worked on (all are private)
 
-[DSD](https://github.com/isabellegoebel/dsd)  
 [UROP](https://github.com/isabellegoebel/urop)  
 [MWD](https://github.com/isabellegoebel/mwd)  
 [Balance Hydrologics](https://github.com/isabellegoebel/bh)  
