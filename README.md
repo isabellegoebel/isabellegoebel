@@ -1,10 +1,11 @@
 Hey! Here is where I keep the projects I've worked on (all are private)
 
-[COEQWAL](https://github.com/isabellegoebel/coeqwal)  
-[UROP](https://github.com/isabellegoebel/urop)  
-[MWD](https://github.com/isabellegoebel/mwd)  
-[Balance Hydrologics](https://github.com/isabellegoebel/bh)  
-[AQMEL](https://github.com/isabellegoebel/aqmel)   
+[COEQWAL](https://github.com/isabellegoebel/coeqwal) -   
+[UROP](https://github.com/isabellegoebel/urop) - Decision Trees, SVM, NLP, Hugging Face Transformers     
+[MWD](https://github.com/isabellegoebel/mwd) - Clustering  
+[Balance Hydrologics](https://github.com/isabellegoebel/bh), [Darts](https://unit8co.github.io/darts/index.html) - ARIMA, ETS, GBM/XGBoost, LSTM         
+[AQMEL](https://github.com/isabellegoebel/aqmel) -   
+Want to learn: CNN (image classification)   
 
 Classes taking/taken:  
 CE 93 - Data Analysis (A)  
