@@ -21,12 +21,3 @@ Data 104 - Data Ethics (A)
 E7 - Intro to Programming (A)  
 [Stat 154](https://github.com/isabellegoebel/stat154) - Statistical Prediction and Machine Learning (TBD)   
 [Math 54](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/) - Linear Algebra (A)   
-
-Classes I want to take but can't:   
-CE 103 - Hydrology     
-CE 193 - Engineering Risk Analysis   
-CS 61A & *CS 61B    
-*Data 101 - Data Engineering    
-*Data 144 - Data Mining and Analytics   
-*These 3 classes away from a double major in Data Science  
-
