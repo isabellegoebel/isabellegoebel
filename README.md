@@ -1,13 +1,16 @@
 Hey! Here is where I keep the projects I've worked on (all are private)
 
-[COEQWAL](https://github.com/isabellegoebel/coeqwal) -   
-[UROP](https://github.com/isabellegoebel/urop) - Decision Trees, SVM, NLP, Hugging Face Transformers     
+**Projects & skills:**  
+[COEQWAL](https://github.com/isabellegoebel/coeqwal) - (in-progress)  
+[Undergraduate Thesis](https://github.com/isabellegoebel/ceh194) -    
+[UROP](https://github.com/isabellegoebel/urop) - Decision Trees, SVM, NLP, Hugging Face Transformers (in-progress)     
 [MWD](https://github.com/isabellegoebel/mwd) - Clustering  
-[Balance Hydrologics](https://github.com/isabellegoebel/bh), [Darts](https://unit8co.github.io/darts/index.html) - ARIMA, ETS, GBM/XGBoost, LSTM         
+[Balance Hydrologics](https://github.com/isabellegoebel/bh), [Darts](https://unit8co.github.io/darts/index.html) - ARIMA, ETS, GBM/XGBoost, LSTM (in-progress)    
 [AQMEL](https://github.com/isabellegoebel/aqmel) -   
+
 Want to learn: CNN (image classification)   
 
-Classes taking/taken:  
+**Classes taking/taken:**  
 CE 93 - Data Analysis (A)  
 CE 100 - Fluid Mechanics (A)  
 CE 105 - Design for Global Transformation (TBD)  
