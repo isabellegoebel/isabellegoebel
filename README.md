@@ -6,7 +6,7 @@ Hey! Here is where I keep the projects I've worked on (all are private)
 [Undergraduate Thesis](https://github.com/isabellegoebel/ceh194) - (in-progress)      
 [UROP](https://github.com/isabellegoebel/urop) - Decision Trees, SVM, NLP, Hugging Face Transformers (in-progress)     
 [MWD](https://github.com/isabellegoebel/mwd) - Clustering  
-[Balance Hydrologics](https://github.com/isabellegoebel/bh) - [Darts](https://unit8co.github.io/darts/index.html) - ARIMA, ETS, GBM/XGBoost, LSTM (in-progress)    
+[Balance Hydrologics](https://github.com/isabellegoebel/bh) - [Darts](https://unit8co.github.io/darts/index.html) - ARIMA, ETS, XGBoost, LSTM (in-progress)    
 [AQMEL](https://github.com/isabellegoebel/aqmel) -   
 
 Want to learn: CNN (image classification), Cloud Storage (AWS), Microsoft Power BI + Tableau, Libraries - [PySWMM](https://www.pyswmm.org/), [GeoPandas](https://geopandas.org/en/stable/getting_started/introduction.html)   
