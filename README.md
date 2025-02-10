@@ -9,7 +9,7 @@ Hey! Here is where I keep the projects I've worked on (all are private)
 [Balance Hydrologics](https://github.com/isabellegoebel/bh) - [Darts](https://unit8co.github.io/darts/index.html) - ARIMA, ETS, GBM/XGBoost, LSTM (in-progress)    
 [AQMEL](https://github.com/isabellegoebel/aqmel) -   
 
-Want to learn: CNN (image classification), Cloud Storage (AWS, Google Cloud, Azure), Microsoft Power BI + Tableau, Libraries - [PySWMM](https://www.pyswmm.org/), [GeoPandas](https://geopandas.org/en/stable/getting_started/introduction.html)   
+Want to learn: CNN (image classification), Cloud Storage (AWS), Microsoft Power BI + Tableau, Libraries - [PySWMM](https://www.pyswmm.org/), [GeoPandas](https://geopandas.org/en/stable/getting_started/introduction.html)   
 
 **Classes Taking/Taken:**  
 
@@ -30,4 +30,4 @@ Data 104 - Data Ethics (A)
 
 **Other Courses:**
 1. [Practical Deep Learning](https://www.fast.ai/)   
-2. [Time Series Forecasting](https://www.udemy.com/course/complete-time-series-forecasting-bootcamp-in-python-2025/?couponCode=24T5MT071025)   
+2. [Time Series Forecasting](https://www.udemy.com/share/10cCvj/)   
