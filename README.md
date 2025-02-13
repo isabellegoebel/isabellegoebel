@@ -9,13 +9,13 @@ Hey! Here is where I keep the projects I've worked on (all are private)
 [Balance Hydrologics](https://github.com/isabellegoebel/bh) - [Darts](https://unit8co.github.io/darts/index.html) - ARIMA, ETS, XGBoost, LSTM (in-progress)    
 [AQMEL](https://github.com/isabellegoebel/aqmel) -   
 
-Want to learn: CNN (image classification), Cloud Storage (AWS), Microsoft Power BI + Tableau, Libraries - [PySWMM](https://www.pyswmm.org/), [GeoPandas](https://geopandas.org/en/stable/getting_started/introduction.html)   
+Want to learn: CNN (image classification), Cloud Storage (AWS), Microsoft Power BI + Tableau, Libraries - [PySWMM](https://www.pyswmm.org/)
 
 **Classes Taking/Taken:**  
 
 CE 93 - Data Analysis (A)  
 CE 100 - Fluid Mechanics (A)  
-CE 105 - Design for Global Transformation (TBD)  
+[CE 105](https://geopandas.org/en/stable/getting_started/introduction.html) - Design for Global Transformation (TBD)   
 CE 110 - Water Systems (A)  
 CE 111 - Environmental Engineering (A)  
 CE 155 - Transportation Engineering (A+)  
