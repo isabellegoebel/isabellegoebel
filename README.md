@@ -1,12 +1,12 @@
 Hey! Here is where I keep the projects I've worked on (all are private)
 
-**Projects & Skills:**  
+**Projects:**  
 
-[COEQWAL](https://github.com/isabellegoebel/coeqwal) - (in-progress)  
-[Undergraduate Thesis](https://github.com/isabellegoebel/ceh194) - Web Scraping (in-progress)      
-[UROP](https://github.com/isabellegoebel/urop) - NLP (in-progress)     
+[COEQWAL](https://github.com/isabellegoebel/coeqwal) - (*in-progress*)  
+[Undergraduate Thesis](https://github.com/isabellegoebel/ceh194) - Web Scraping (*in-progress*)      
+[UROP](https://github.com/isabellegoebel/urop) - NLP (*in-progress*)     
 [MWD](https://github.com/isabellegoebel/mwd) - Clustering  
-[Balance Hydrologics](https://github.com/isabellegoebel/bh) - Time Series Forecasting (in-progress)    
+[Balance Hydrologics](https://github.com/isabellegoebel/bh) - Time Series Forecasting (*in-progress*)    
 
 **Classes Taking/Taken:**  
 
@@ -26,7 +26,14 @@ Data 104 - Data Ethics (A)
 [Math 54](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/) - Linear Algebra (A)   
 
 **Other Courses:**
-1. [Practical Deep Learning](https://www.fast.ai/)   
-2. [Time Series Forecasting](https://www.udemy.com/share/10cCvj/)   
+1. [Practical Deep Learning](https://www.fast.ai/) (*in-progress*)  
+2. [Time Series Forecasting](https://www.udemy.com/share/10cCvj/) (*in-progress*)  
 
-Want to learn: CNN (image classification), Cloud Storage (AWS), Microsoft Power BI + Tableau, Libraries - [PySWMM](https://www.pyswmm.org/)
+**Skills:**  
+- *TBD* (COEQWAL)   
+- *Elsevier & OpenAI API, AllenAI Specter, Random Forests - Bagging/Boosting, Logistic Regression* (Undergraduate Thesis)   
+- *NLTK & spaCy, VADER & TextBlob, TF-IDF, LDA, Decision Trees, Logistic Regression, SVM, NLP, Hugging Face Transformers* (UROP)   
+- Hierarchical & DBSCAN Clustering, Streamlit & Gradio Dashboards, PCA (MWD)    
+- *ARIMA & SARIMA & SARIMAX, ETS, XGBoost, TBATs, Theta* (Balance Hydrologics)  
+
+Want to learn: CNN (image classification)  
