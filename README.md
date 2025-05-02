@@ -12,7 +12,7 @@ Hey! Here is where I keep the projects I've worked on (all are private)
 
 CE 93 - Data Analysis (A)  
 CE 100 - Fluid Mechanics (A)  
-[CE 105](https://github.com/isabellegoebel/ce105) - Design for Global Transformation (TBD)     
+[CE 105](https://github.com/isabellegoebel/CE105) - Design for Global Transformation (TBD)     
 CE 110 - Water Systems (A)  
 CE 111 - Environmental Engineering (A)  
 CE 155 - Transportation Engineering (A+)  
