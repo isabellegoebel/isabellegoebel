@@ -1,18 +1,19 @@
-Hey! Here is where I keep the projects I've worked on (all are private)
+Hey! Here is where I keep the projects I've worked on (most are private)
 
 **Projects:**  
 
-[COEQWAL](https://github.com/isabellegoebel/coeqwal) - (*in-progress*)  
-[Undergraduate Thesis](https://github.com/isabellegoebel/ceh194) - Web Scraping (*in-progress*)      
-[UROP](https://github.com/isabellegoebel/urop) - NLP (*in-progress*)     
+[COEQWAL](https://github.com/isabellegoebel/coeqwal) - Water Operations Framework   
+[Undergraduate Honors Research](https://github.com/isabellegoebel/iatbr-open-science) - Text Mining   
+[CE 105](https://huggingface.co/spaces/isabellegoebel/CE105) - Web Design   
 [MWD](https://github.com/isabellegoebel/mwd) - Clustering  
+[UROP](https://github.com/isabellegoebel/urop) - NLP (*in-progress*)   
 [Balance Hydrologics](https://github.com/isabellegoebel/bh) - Time Series Forecasting (*in-progress*)    
 
 **Classes Taking/Taken:**  
 
 CE 93 - Data Analysis (A)  
 CE 100 - Fluid Mechanics (A)  
-[CE 105](https://github.com/isabellegoebel/CE105) - Design for Global Transformation (TBD)     
+CE 105 - Design for Global Transformation (TBD)     
 CE 110 - Water Systems (A)  
 CE 111 - Environmental Engineering (A)  
 CE 155 - Transportation Engineering (A+)  
@@ -31,9 +32,10 @@ Data 104 - Data Ethics (A)
 
 **Skills:**  
 - *TBD* (COEQWAL)   
-- *Elsevier & OpenAI API, AllenAI Specter, Random Forests - Bagging/Boosting, Logistic Regression* (Undergraduate Thesis)   
-- *NLTK & spaCy, VADER & TextBlob, TF-IDF, LDA, Decision Trees, Logistic Regression, SVM, NLP, Hugging Face Transformers* (UROP)   
-- Hierarchical & DBSCAN Clustering, Streamlit & Gradio Dashboards, PCA (MWD)    
+- Elsevier & Gemini APIs, RegEx, Scripting, Validation Metrics, Literature Review, Academic Writing (Undergraduate Thesis)
+- Front-End and Back-End Development, Plotly Dash, Docker, GeoPandas, Web APIs - HRRR, HYSPLIT, TROPOMI (CE 105)
+- Hierarchical & DBSCAN Clustering, Streamlit & Gradio Dashboards, PCA (MWD)   
+- *NLTK & spaCy, VADER & TextBlob, TF-IDF, LDA, Decision Trees - Bagging & Boosting, Logistic Regression, SVM, NLP, Hugging Face Transformers* (UROP)    
 - *ARIMA & SARIMA & SARIMAX, ETS, XGBoost, TBATs, Theta* (Balance Hydrologics)  
 
 Want to learn: CNN (image classification)  
