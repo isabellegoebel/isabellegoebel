@@ -3,7 +3,7 @@ Hey! Here is where I keep the projects I've worked on (most are private)
 **Projects:**  
 
 [COEQWAL](https://github.com/isabellegoebel/coeqwal) - Water Operations Framework   
-[Undergraduate Honors Research](https://github.com/isabellegoebel/iatbr-open-science) - Text Mining   
+[Honors Undergraduate Research](https://github.com/isabellegoebel/iatbr-open-science) - Text Mining   
 [CE 105](https://huggingface.co/spaces/isabellegoebel/CE105) - Web Design   
 [MWD](https://github.com/isabellegoebel/mwd) - Clustering  
 [UROP](https://github.com/isabellegoebel/urop) - NLP (*in-progress*)   
@@ -32,7 +32,7 @@ Math 54 - Linear Algebra (A)
 
 **Skills:**  
 - *TBD* (COEQWAL)   
-- Elsevier & Gemini APIs, RegEx, Scripting, Validation Metrics, Literature Review, Academic Writing (Undergraduate Thesis)
+- Elsevier & Gemini APIs, RegEx, Scripting, Validation Metrics, Literature Review, Academic Writing (Honors Thesis)
 - Front-End and Back-End Development, Plotly Dash, Docker, GeoPandas, Web APIs - HRRR, HYSPLIT, TROPOMI (CE 105)
 - Hierarchical & DBSCAN Clustering, Streamlit & Gradio Dashboards, PCA (MWD)   
 - *NLTK & spaCy, VADER & TextBlob, TF-IDF, LDA, Decision Trees - Bagging & Boosting, Logistic Regression, SVM, NLP, Hugging Face Transformers* (UROP)    
