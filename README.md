@@ -13,7 +13,7 @@ Hey! Here is where I keep the projects I've worked on (most are private)
 
 CE 93 - Data Analysis (A)  
 CE 100 - Fluid Mechanics (A)  
-CE 105 - Design for Global Transformation (TBD)     
+CE 105 - Design for Global Transformation (A)     
 CE 110 - Water Systems (A)  
 CE 111 - Environmental Engineering (A)  
 CE 155 - Transportation Engineering (A+)  
@@ -23,7 +23,7 @@ Data 100 - Data Science (A)
 Data 104 - Data Ethics (A)  
 Data 140 - Probability (A)   
 E7 - Intro to Programming (A)  
-Stat 154 - Statistical Prediction and Machine Learning (TBD)   
+Stat 154 - Machine Learning (A)   
 Math 54 - Linear Algebra (A)   
 
 **Other Courses:**
