@@ -20,7 +20,7 @@ CE 290I - Control and Information Management
 CE 293 -  Uncertainty Quantification  
 CE 294 -  Disaster Risk Analysis  
 
-*Want to take but can't: CE 291D - Data-Driven Control Methods/Machine Learning*   
+Want to take but can't: CE 291D - Data-Driven Control Methods/Machine Learning   
 
 **Undergraduate Classes:**  
 
