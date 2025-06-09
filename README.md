@@ -9,7 +9,20 @@ Hey! Here is where I keep the projects I've worked on (most are private)
 [UROP](https://github.com/isabellegoebel/urop) - NLP (*in-progress*)   
 [Balance Hydrologics](https://github.com/isabellegoebel/bh) - Time Series Forecasting (*in-progress*)    
 
-**Classes Taking/Taken:**  
+**Planned Graduate Classes:**  
+
+CE 200A -  Environmental Fluid Mechanics I   
+CE 200B -  Environmental Fluid Mechanics II    
+CE 203N -  Surface Water Hydrology  
+CE 206 -  Water Resources Management  
+CE 263H -  Spatial Analysis  
+CE 290I - Control and Information Management  
+CE 293 -  Uncertainty Quantification  
+CE 294 -  Disaster Risk Analysis  
+
+*Want to take but can't: CE 291D - Data-Driven Control Methods/Machine Learning*   
+
+**Undergraduate Classes:**  
 
 CE 93 - Data Analysis (A)  
 CE 100 - Fluid Mechanics (A)  
