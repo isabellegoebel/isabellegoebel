@@ -21,7 +21,7 @@ CE 193/293 -  Risk Analysis/Uncertainty Quantification
 IND ENG 242A - Machine Learning and Data Analytics   
 ESPM 207 - Data Assimilation and AI in Hydrology  
 
-Want to take but can't: 
+Want to take but can't:   
 CE 291D - Data-Driven Control Methods/Machine Learning   
 IND ENG 262A - Mathematical Programming (Network Flows)      
 
