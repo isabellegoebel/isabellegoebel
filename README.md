@@ -15,7 +15,7 @@ CE 200A -  Environmental Fluid Mechanics I
 CE 200B -  Environmental Fluid Mechanics II    
 CE 203N -  Surface Water Hydrology  
 CE 206 -  Water Resources Management  
-CE 263H -  Spatial Analysis  
+CE 263H -  Spatial Analysis and Network Science  
 CE 290I - Control and Information Management  
 CE 193/293 -  Risk Analysis/Uncertainty Quantification  
 IND ENG 242A - Machine Learning and Data Analytics   
