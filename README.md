@@ -17,7 +17,7 @@ CE 203N -  Surface Water Hydrology
 CE 206 -  Water Resources Management  
 CE 263H -  Spatial Analysis and Network Science  
 CE 290I - Control and Information Management  
-CE 193/293 -  Risk Analysis/Uncertainty Quantification  
+CE 293 -  Uncertainty Quantification  
 IND ENG 242A - Machine Learning and Data Analytics   
 ESPM 207 - Data Assimilation and AI in Hydrology  
 
