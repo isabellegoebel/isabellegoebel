@@ -6,8 +6,8 @@ Hey! Here is where I keep the projects I've worked on (most are private)
 [Honors Undergraduate Research](https://github.com/isabellegoebel/iatbr-open-science) - Text Mining   
 [CE 105](https://huggingface.co/spaces/isabellegoebel/CE105) - Web Design   
 [MWD](https://github.com/isabellegoebel/mwd) - Clustering  
-[UROP](https://github.com/isabellegoebel/urop) - NLP (*in-progress*)   
-[Balance Hydrologics](https://github.com/isabellegoebel/bh) - Time Series Forecasting (*in-progress*)    
+[UROP](https://github.com/isabellegoebel/urop) - NLP (*not finished/in-progress*)   
+[Balance Hydrologics](https://github.com/isabellegoebel/bh) - Time Series Forecasting (*not finished/in-progress*)    
 
 **Planned Graduate Classes:**  
 
