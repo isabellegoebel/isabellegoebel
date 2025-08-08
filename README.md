@@ -43,15 +43,15 @@ Stat 154 - Machine Learning (A)
 Math 54 - Linear Algebra (A)   
 
 **Other Courses:**
-1. [Practical Deep Learning](https://www.fast.ai/) (*in-progress*)  
-2. [Time Series Forecasting](https://www.udemy.com/share/10cCvj/) (*in-progress*)  
+1. [Practical Deep Learning](https://www.fast.ai/) (*want to take*)  
+2. [Time Series Forecasting](https://www.udemy.com/share/10cCvj/) (*want to take*)  
 
 **Skills:**  
 - *TBD* (COEQWAL)   
 - Elsevier & Gemini APIs, RegEx, Scripting, Validation Metrics, Literature Review, Academic Writing (Honors Thesis)
 - Front-End and Back-End Development, Plotly Dash, Docker, GeoPandas, Web APIs - HRRR, HYSPLIT, TROPOMI (CE 105)
 - Hierarchical & DBSCAN Clustering, Streamlit & Gradio Dashboards, PCA (MWD)   
-- *NLTK & spaCy, VADER & TextBlob, TF-IDF, LDA, Decision Trees - Bagging & Boosting, Logistic Regression, SVM, NLP, Hugging Face Transformers* (UROP)    
-- *ARIMA & SARIMA & SARIMAX, ETS, XGBoost, TBATs, Theta* (Balance Hydrologics)  
+- *NLTK & spaCy, VADER & TextBlob, TF-IDF, LDA, Decision Trees - Bagging & Boosting, Logistic Regression, SVM, NLP, Hugging Face Transformers* (*UROP - Planned*)  
+- *ARIMA & SARIMA & SARIMAX, ETS, XGBoost, TBATs, Theta* (*Balance Hydrologics - Planned*)  
 
 Want to learn: CNN (image classification)  
