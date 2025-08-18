@@ -3,11 +3,10 @@ Hey! Here is where I keep the projects I've worked on (most are private)
 **Projects:**  
 
 [COEQWAL](https://github.com/isabellegoebel/coeqwal) - Water Operations Framework   
+Stantec - CalSim3 Post-Processing   
 [Honors Undergraduate Research](https://github.com/isabellegoebel/iatbr-open-science) - Text Mining   
 [CE 105](https://huggingface.co/spaces/isabellegoebel/CE105) - Web Design   
-[MWD](https://github.com/isabellegoebel/mwd) - Clustering  
-[UROP](https://github.com/isabellegoebel/urop) - NLP (*not finished/in-progress*)   
-[Balance Hydrologics](https://github.com/isabellegoebel/bh) - Time Series Forecasting (*not finished/in-progress*)    
+[MWD](https://github.com/isabellegoebel/mwd) - Clustering    
 
 **Planned Graduate Classes:**  
 
@@ -19,11 +18,7 @@ CE 263H -  Spatial Analysis and Network Science
 CE 290I - Control and Information Management  
 CE 293 -  Uncertainty Quantification  
 IND ENG 242A - Machine Learning and Data Analytics   
-ESPM 207 - Data Assimilation and AI in Hydrology  
-
-Want to take but can't:   
-CE 291D - Data-Driven Control Methods/Machine Learning   
-IND ENG 262A - Mathematical Programming (Network Flows)      
+ESPM 207 - Data Assimilation and AI in Hydrology      
 
 **Undergraduate Classes:**  
 
@@ -42,16 +37,9 @@ E7 - Intro to Programming (A)
 Stat 154 - Machine Learning (A)   
 Math 54 - Linear Algebra (A)   
 
-**Other Courses:**
-1. [Practical Deep Learning](https://www.fast.ai/) (*want to take*)  
-2. [Time Series Forecasting](https://www.udemy.com/share/10cCvj/) (*want to take*)  
-
 **Skills:**  
-- *TBD* (COEQWAL)   
+- *TBD* (COEQWAL)
+- CalSim3, Power BI, Plotly Dash (Stantec)   
 - Elsevier & Gemini APIs, RegEx, Scripting, Validation Metrics, Literature Review, Academic Writing (Honors Thesis)
 - Front-End and Back-End Development, Plotly Dash, Docker, GeoPandas, Web APIs - HRRR, HYSPLIT, TROPOMI (CE 105)
 - Hierarchical & DBSCAN Clustering, Streamlit & Gradio Dashboards, PCA (MWD)   
-- *NLTK & spaCy, VADER & TextBlob, TF-IDF, LDA, Decision Trees - Bagging & Boosting, Logistic Regression, SVM, NLP, Hugging Face Transformers* (*UROP - Planned*)  
-- *ARIMA & SARIMA & SARIMAX, ETS, XGBoost, TBATs, Theta* (*Balance Hydrologics - Planned*)  
-
-Want to learn: CNN (image classification)  
