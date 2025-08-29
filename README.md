@@ -14,10 +14,10 @@ CE 200A -  Environmental Fluid Mechanics I
 CE 200B -  Environmental Fluid Mechanics II    
 CE 203N -  Surface Water Hydrology  
 CE 206 -  Water Resources Management  
-CE 263H -  Spatial Analysis and Network Science  
-CE 290I - Control and Information Management  
+CE 263H -  Human Mobility and Network Science (Spatial Analysis)   
+CE 290I - Control and Information Management (Programming)  
 CE 293 -  Uncertainty Quantification  
-IND ENG 242A - Machine Learning and Data Analytics   
+IND ENG 242B - Machine Learning and Data Analytics II   
 ESPM 207 - Data Assimilation and AI in Hydrology      
 
 **Undergraduate Classes:**  
