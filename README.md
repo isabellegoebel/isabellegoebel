@@ -3,14 +3,14 @@ Hey! Here is where I keep the projects I've worked on (most are private)
 **Projects:**  
 
 [COEQWAL](https://github.com/isabellegoebel/coeqwal) - Water Operations Framework   
-Stantec - CalSim3 Post-Processing   
+[Stantec](https://github.com/isabellegoebel/stantec)- CalSim3 Post-Processing   
 [Honors Undergraduate Research](https://github.com/isabellegoebel/iatbr-open-science) - Text Mining   
 [CE 105](https://huggingface.co/spaces/isabellegoebel/CE105) - Web Design   
 [MWD](https://github.com/isabellegoebel/mwd) - Clustering    
 
 **Planned Graduate Classes:**  
 
-CE 200A -  Environmental Fluid Mechanics I   
+CE 200A - Environmental Fluid Mechanics I   
 CE 200B -  Environmental Fluid Mechanics II    
 CE 203N -  Surface Water Hydrology  
 CE 206 -  Water Resources Management  
@@ -36,6 +36,9 @@ Data 140 - Probability (A)
 E7 - Intro to Programming (A)  
 Stat 154 - Machine Learning (A)   
 Math 54 - Linear Algebra (A)   
+
+**Other Courses:**  
+1. Practical Deep Learning for Coders (Part 1) - https://course.fast.ai/    
 
 **Skills:**  
 - *TBD* (COEQWAL)
