@@ -3,7 +3,7 @@ Hey! Here is where I keep the projects I've worked on (most are private)
 **Projects:**  
 
 [COEQWAL](https://github.com/isabellegoebel/coeqwal) - Water Operations Framework   
-[Stantec](https://github.com/isabellegoebel/stantec)- CalSim3 Post-Processing   
+[Stantec](https://github.com/isabellegoebel/stantec) - CalSim3 Post-Processing   
 [Honors Undergraduate Research](https://github.com/isabellegoebel/iatbr-open-science) - Text Mining   
 [CE 105](https://huggingface.co/spaces/isabellegoebel/CE105) - Web Design   
 [MWD](https://github.com/isabellegoebel/mwd) - Clustering    
