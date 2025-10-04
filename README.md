@@ -38,7 +38,8 @@ Stat 154 - Machine Learning (A)
 Math 54 - Linear Algebra (A)   
 
 **Other Courses:**  
-1. Practical Deep Learning for Coders (Part 1) - https://course.fast.ai/    
+1. [Practical Deep Learning for Coders (Part 1)](https://course.fast.ai/)   
+2. [Complete Time Series Forecasting Bootcamp in Python (2025)](https://www.udemy.com/course/complete-time-series-forecasting-bootcamp-in-python-2025/)   
 
 **Skills:**  
 - *TBD* (COEQWAL)
