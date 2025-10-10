@@ -3,7 +3,7 @@ Hey! Here is where I keep the projects I've worked on (most are private)
 **Projects:**  
 
 [COEQWAL](https://github.com/isabellegoebel/coeqwal) - Water Operations Framework   
-[Stantec](https://github.com/isabellegoebel/stantec) - CalSim3 Post-Processing   
+[Dashboard](https://github.com/isabellegoebel/stantec) - CalSim3 Post-Processing   
 [Honors Undergraduate Research](https://github.com/isabellegoebel/iatbr-open-science) - Text Mining   
 [CE 105](https://huggingface.co/spaces/isabellegoebel/CE105) - Web Design   
 [MWD](https://github.com/isabellegoebel/mwd) - Clustering    
@@ -43,7 +43,7 @@ Math 54 - Linear Algebra (A)
 
 **Skills:**  
 - *TBD* (COEQWAL)
-- CalSim3, Power BI, Plotly Dash (Stantec)   
+- CalSim3, Power BI, Plotly Dash (Dashboard)   
 - Elsevier & Gemini APIs, RegEx, Scripting, Validation Metrics, Literature Review, Academic Writing (Honors Thesis)
 - Front-End and Back-End Development, Plotly Dash, Docker, GeoPandas, Web APIs - HRRR, HYSPLIT, TROPOMI (CE 105)
 - Hierarchical & DBSCAN Clustering, Streamlit & Gradio Dashboards, PCA (MWD)   
