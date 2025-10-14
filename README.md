@@ -17,7 +17,7 @@ CE 206 -  Water Resources Management
 CE 263H -  Human Mobility and Network Science [Spatial Analysis]   
 CE 290I - Control and Information Management [Programming]  
 INDENG 242A/B - Machine Learning and Data Analytics I/II (Auditing)   
-ESPM 207 - Data Assimilation and AI in Hydrology
+ESPM 207 - Data Assimilation and AI in Hydrology   
 *One more class TBD*   
 
 **Undergraduate Classes:**  
