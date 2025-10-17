@@ -2,7 +2,7 @@ Hey! Here is where I keep the projects I've worked on (most are private)
 
 **Projects:**  
 
-[Graduate Project](https://github.com/isabellegoebel/masters) - Physics-Informed Deep Learning
+[Graduate Project](https://github.com/isabellegoebel/masters) - Physics-Informed Deep Learning   
 [COEQWAL](https://github.com/isabellegoebel/coeqwal) - Water Operations Framework   
 [Dashboard](https://github.com/isabellegoebel/stantec) - CalSim3 Post-Processing   
 [Honors Undergraduate Research](https://github.com/isabellegoebel/iatbr-open-science) - Text Mining   
