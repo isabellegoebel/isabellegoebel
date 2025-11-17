@@ -2,7 +2,7 @@ Hey! Here is where I keep the projects I've worked on (most are private)
 
 **Projects:**  
 
-[Graduate Capstone](https://github.com/isabellegoebel/masters) - Physics-Informed Neural Network   
+[Graduate Capstone](https://github.com/isabellegoebel/capstone) - Physics-Informed Neural Network   
 [COEQWAL](https://github.com/isabellegoebel/coeqwal) - Water Operations Framework   
 [Dashboard](https://github.com/isabellegoebel/stantec) - CalSim3 Post-Processing   
 [Honors Undergraduate Research](https://github.com/isabellegoebel/iatbr-open-science) - Text Mining   
@@ -42,7 +42,7 @@ Stat 154 - Machine Learning (A)
 2. [Complete Time Series Forecasting Bootcamp in Python (2025)](https://www.udemy.com/course/complete-time-series-forecasting-bootcamp-in-python-2025/)   
 
 **Skills:**  
-- *LSTM, PyTorch/NeuralHydrology, HEC-HMS or DeepXDE, Darts, Monte Carlo Simulation & SALib, TorchScript & C++* (Graduate Capstone)   
+- *LSTM, PyTorch/NeuralHydrology, HEC-HMS, Darts, Monte Carlo Dropout & SALib, TorchScript & LibTorch/C++* (Graduate Capstone)   
 - *TBD* (COEQWAL)  
 - CalSim3, Power BI, Plotly Dash (Dashboard)   
 - Elsevier & Gemini APIs, RegEx, Scripting, Validation Metrics, Literature Review, Academic Writing (Honors Thesis)  
