@@ -11,15 +11,15 @@ Hey! Here is where I keep the projects I've worked on (most are private)
 
 **Planned Graduate Classes:**  
 
-CE 200A - Environmental Fluid Mechanics I   
+CE 200A - Environmental Fluid Mechanics I (A)   
 CE 200B -  Environmental Fluid Mechanics II    
 CE 203N -  Surface Water Hydrology  
 CE 206 -  Water Resources Management  
-CE 263H -  Human Mobility and Network Science (Spatial Analysis)   
-CE 290I - Control and Information Management (Programming)  
+CE 263H -  Human Mobility and Network Science (A)   
+CE 290I - Control and Information Management (Programming) (A)  
 CE 295 - Data Science for Energy (Optimization + ML)   
 INDENG 242A/B - Machine Learning and Data Analytics I/II (Auditing)   
-ESPM 207 - Data Assimilation and AI in Hydrology   
+ESPM 207 - Data Assimilation and AI in Hydrology (A+)   
 
 **Undergraduate Classes:**  
 
