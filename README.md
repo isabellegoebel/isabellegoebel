@@ -4,12 +4,12 @@ Hey! Here is where I keep the projects I've worked on (most are private)
 
 [Graduate Capstone](https://github.com/isabellegoebel/capstone) - Physics-Informed Neural Network and C++ DLL    
 [COEQWAL](https://github.com/isabellegoebel/coeqwal) - Water Operations Framework   
-[CE 203N](https://github.com/isabellegoebel/ce203n) - Water Temperature Modeling   
-[CE 206](https://github.com/isabellegoebel/ce206) - Yolo Bypass Expansion   
-[Stantec](https://github.com/isabellegoebel/stantec) - CalSim3 Post-Processing   
-[Honors Undergraduate Research](https://github.com/isabellegoebel/iatbr-open-science) - Text Mining   
+[CE 206](https://github.com/isabellegoebel/ce206) - Yolo Bypass Expansion with HEC-HMS   
+CE 203N - Water Temperature Modeling     
+Stantec - CalSim3 Post-Processing   
+Honors Undergraduate Research - Text Mining   
 [CE 105](https://huggingface.co/spaces/isabellegoebel/CE105) - Web Design   
-[MWD](https://github.com/isabellegoebel/mwd) - Clustering    
+MWD - Clustering    
 
 **Graduate Classes:**  
 
@@ -46,8 +46,8 @@ Stat 154 - Machine Learning (A)
 **Skills:**  
 - LSTM, PyTorch/NeuralHydrology, Darts, Monte Carlo Dropout, TorchScript & LibTorch/C++ (Graduate Capstone)
 - GitHub, Scenario Analyses (COEQWAL)
-- CE-QUAL-W2, Random Forests (CE 203N)
 - HEC-HMS (CE 206)   
+- CE-QUAL-W2, Random Forests (CE 203N)
 - CalSim3, Power BI, Plotly Dash (Stantec)   
 - Elsevier & Gemini APIs, RegEx, Scripting, Validation Metrics, Literature Review, Academic Writing (Honors Thesis)  
 - Front-End and Back-End Development, Plotly Dash, Docker, GeoPandas, Web APIs - HRRR, HYSPLIT, TROPOMI (CE 105)  
