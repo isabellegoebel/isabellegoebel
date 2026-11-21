@@ -4,7 +4,7 @@ Hey! Here is where I keep the projects I've worked on (most are private)
 
 [Graduate Capstone](https://github.com/isabellegoebel/capstone) - Physics-Informed Neural Network and C++ DLL    
 [COEQWAL](https://github.com/isabellegoebel/coeqwal) - Water Operations Framework   
-[CE 206](https://github.com/isabellegoebel/ce206) - Yolo Bypass Expansion with HEC-HMS   
+CE 206 - Yolo Bypass Expansion with HEC-HMS   
 CE 203N - Water Temperature Modeling     
 Stantec - CalSim3 Post-Processing   
 Honors Undergraduate Research - Text Mining   
